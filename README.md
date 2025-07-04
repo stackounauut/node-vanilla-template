@@ -1,2 +1,3 @@
-# node-vanilla-template
+# Node vanilla template
+
 Welcome to the base template for building APIs with Node.js! 🚀.
